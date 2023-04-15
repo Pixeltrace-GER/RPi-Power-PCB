@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pixeltrace")(type "KiCad")(uri "//PT-NAS/Media/GitHub/Pixeltrace-GER/MyKiCAD_Lib/pixeltrace.kicad_sym")(options "")(descr ""))
+)
